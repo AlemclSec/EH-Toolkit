@@ -32,3 +32,9 @@ This toolkit is built for educational and ethical testing purposes only — idea
 
 **!! Disclaimer !!**
 Use responsibly and legally. This project is intended for authorized security testing and education only.
+
+**Resources**
+OSINT
+Att&ck
+tryhackme
+
