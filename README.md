@@ -1,6 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/896b770a-1c0d-4014-9d43-0390f09fa1fa)
 
-# 🛠️ EH-Toolkit: Ethical Hacking Tools
+## 🛠️ EH-Toolkit: Ethical Hacking Tools
+
+---
 
 **This project is a curated collection of tools and scripts designed to support both Red Team (offensive security) and Blue Team (defensive security) operations. It serves as a learning resource and practical toolkit for cybersecurity professionals and students.**
 ---
