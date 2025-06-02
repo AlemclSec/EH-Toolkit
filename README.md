@@ -1,9 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/896b770a-1c0d-4014-9d43-0390f09fa1fa)
 
 # 🛠️ EH-Toolkit: Ethical Hacking Tools
----
-**This project is a curated collection of tools and scripts designed to support both Red Team (offensive security) and Blue Team (defensive security) operations. It serves as a learning resource and practical toolkit for cybersecurity professionals and students.**
 
+**This project is a curated collection of tools and scripts designed to support both Red Team (offensive security) and Blue Team (defensive security) operations. It serves as a learning resource and practical toolkit for cybersecurity professionals and students.**
 ---
 
 ## 🟥 Red Team — Offensive Security
@@ -33,6 +32,7 @@ Tools for detecting, analyzing, and responding to threats and intrusions.
 - [Network Monitoring](./Blue-Team/Network-Monitoring) – Packet analysis & IDS/IPS
 - [SIEM Tools](./Blue-Team/SIEM-Tools) – Logging, alerting, and correlation platforms
 
+---
 
 ## Purpose
 
@@ -44,8 +44,7 @@ Use responsibly and legally. This project is intended for authorized security te
 
 ## Resources:
 
-[OSINT](https://osintframework.com/)
-
-[Mitre Att&ck](https://attack.mitre.org/)
+- [OSINT](https://osintframework.com/)
+- [Mitre Att&ck](https://attack.mitre.org/)
 
 
