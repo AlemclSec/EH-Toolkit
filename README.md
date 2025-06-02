@@ -19,6 +19,7 @@ Tools and techniques used for simulating adversaries and identifying vulnerabili
     - [Gaining-Access](./Red-Team/System-Hacking/Gaining-Access/Passwd-Cracking)
     - [Gaining-Access](./Red-Team/System-Hacking/Gaining-Access/WIFI)
   
+---
   
 ## 🟦 Blue Team — Defensive Security
 
@@ -31,13 +32,16 @@ Tools for detecting, analyzing, and responding to threats and intrusions.
 - [SIEM Tools](./Blue-Team/SIEM-Tools) – Logging, alerting, and correlation platforms
 
 
-**Purpose**
+## Purpose
+
 This toolkit is built for educational and ethical testing purposes only — ideal for lab environments, capture-the-flag (CTF) challenges, and cybersecurity training.
 
-**!! Disclaimer !!**
+## !! Disclaimer !!
+
 Use responsibly and legally. This project is intended for authorized security testing and education only.
 
-**Resources**
+## Resources:
+
 [OSINT](https://osintframework.com/)
 [Mitre Att&ck](https://attack.mitre.org/)
 
