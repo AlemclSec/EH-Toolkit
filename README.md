@@ -5,6 +5,7 @@
 ---
 
 **This project is a curated collection of tools and scripts designed to support both Red Team (offensive security) and Blue Team (defensive security) operations. It serves as a learning resource and practical toolkit for cybersecurity professionals and students.**
+
 ---
 
 ## 🟥 Red Team — Offensive Security
